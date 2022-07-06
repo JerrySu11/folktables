@@ -2,6 +2,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,osx,windows,python,jupyternotebooks,zsh,linux,sublimetext,vim,latex,pycharm
 data/*
 
+tests/data/*
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
